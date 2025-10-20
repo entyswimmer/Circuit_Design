@@ -8,6 +8,8 @@ __pycache__/
 
 # datafiles
 .DS_Store
+*.raw
+*.log
 
 # Distribution / packaging
 .Python
